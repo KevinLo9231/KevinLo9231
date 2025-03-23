@@ -1,14 +1,14 @@
 <h1 align="center">Hi there! 👋 I'm Kevin</h1>
 
 <p align="center">
-  <div align="right">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A5E0&width=500&lines=Passionate+about+problem+solving;Always+looking+for+ways+to+grow+and+improve;Tech+Enthusiast+%26+Problem+Solver;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A5E0&width=800&lines=Passionate+about+problem+solving;Always+looking+for+ways+to+grow+and+improve;Tech+Enthusiast+%26+Problem+Solver;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
   </div>
   <div>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=600&lines=Software+Developer;Frontend+Intern+Engineer;Always+Learning+New+Technologies+%F0%9F%92%BB" alt="Typing SVG" />
   </div>
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A5E0&width=500&lines=Aspiring+Frontend+Engineer;Currently+Learning:+Kubernetes;Frontend+Experience:+HTML+CSS+JavaScript+bootstrap;Passionate+about+Software+Development;Always+Improving+Skills+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A5E0&width=900&lines=Aspiring+Frontend+Engineer;Currently+Learning:+Kubernetes;Frontend+Experience:+HTML+CSS+JavaScript+bootstrap;Passionate+about+Software+Development;Always+Improving+Skills+%F0%9F%8E%AF" alt="Typing SVG" />
   </div>
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A5E0&width=500&lines=Frontend+%26+Backend+Developer;Dedicated+to+making+progress;Tech+Enthusiast+%26+Problem+Solver" alt="Typing SVG" />
