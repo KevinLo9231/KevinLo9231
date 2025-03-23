@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats & Activity
 <div align="center">
-  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=Kevinlo9231&show_icons=true&theme=tokyonight" />
-  <img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinlo9231&theme=tokyonight" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=Kevinlo9231&show_icons=true&theme=tokyonight" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kevinlo9231&theme=tokyonight" />
 </div>
 
 <!-- 
