@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Kevin</h1>
 
-<p align="center">
+<p align="right">
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A5E0&width=800&lines=Passionate+about+problem+solving;Always+looking+for+ways+to+grow+and+improve;Tech+Enthusiast+%26+Problem+Solver;Always+Learning+New+Things+%F0%9F%92%BB" alt="Typing SVG" />
   </div>
